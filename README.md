@@ -2,7 +2,7 @@
 
 My name is **Kate** and I am a Software Engineer based in **Manila, PH**.
 
-I've been coding since 2019, and most of my experiences are in **Web Development (backend)**. I'm currently focused on leveling up my skills in **Java**.
+I've been coding since 2019, and most of my experiences are in **Web Development (backend)**. I'm currently focused on leveling up my skills in **Java**. I'm also interested in learning Python.
 
 ### My Work 🔭
  - I work as a Software Engineer at Accenture.
