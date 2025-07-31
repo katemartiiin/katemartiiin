@@ -2,9 +2,9 @@
 
 My name is **Kate** and I am a Software Engineer based in **Manila, PH**.
 
-I've been coding since 2019, and most of my experiences are in **Web Development (backend)**. 
+I'm a **Software Engineer** based in the **Philippines**, with a strong passion for building reliable and efficient web applications.
 
-I'm currently focused on leveling up my skills in **Java**. I'm also interested in learning **Python**.
+Since 2019, I've been immersed in **web development**, primarily using **Laravel** and **Vue.js**, and now also working with **Spring Boot** and **React**. I'm always eager to learn new technologies—currently, I'm also exploring **Python** to expand my skills.
 
 ### My Work 🔭
  - I work as a Software Engineer at Accenture.
@@ -13,18 +13,3 @@ I'm currently focused on leveling up my skills in **Java**. I'm also interested 
 
 ### Contact 📫
 You can reach me via email at [kate@katejaneenmartin.com](mailto:kate@katejaneenmartin.com)
-
-<!--
-**katemartiiin/katemartiiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
