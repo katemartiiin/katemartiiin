@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-My name is **Kate** and I am a Software Engineer based in **Manila, PH**.
-
-I'm a **Software Engineer** based in the **Philippines**, with a strong passion for building reliable and efficient web applications.
+Hi, I'm **Kate** — a Software Engineer based in **Manila, Philippines**, with a passion for building reliable and efficient web applications.
 
 Since 2019, I've been immersed in **web development**, primarily using **Laravel** and **Vue.js**, and now also working with **Spring Boot** and **React**. I'm also interested in learning **Python** to further expand my skill set.
 
