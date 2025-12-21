@@ -1,13 +1,19 @@
 ## Hi there 👋
 
-I'm **Kate** — a Software Engineer based in **Manila, Philippines**, with a passion for building reliable and efficient web applications.
+I'm **Kate** — a Software Engineer based in **Bulacan, Philippines**, with a passion for building reliable, well-structured, and efficient applications.
 
-Since 2019, I've been immersed in **web development**, primarily using **Laravel** and **Vue.js**, and now also working with **Spring Boot** and **React**. I'm also interested in learning **Python** to further expand my skill set.
+I’ve been in the tech industry since **2019**, with a strong background in **web development** using **Laravel** and **Vue.js**, and experience working with **Spring Boot** and **React**.  
+Currently, I work as a **ServiceNow Consultant at Deloitte**, where I’m actively **upskilling in ServiceNow** and expanding my expertise in enterprise platforms.
+
+Alongside this, I’m also **exploring and expanding my knowledge in AI**, driven by an interest in building smarter, more adaptive systems.
 
 ### My Work 🔭
- - I work as a Software Engineer at Accenture.
- - I code many side projects, mainly in **Laravel** and **Vue JS**.
- - I'm open to accepting part-time or freelance projects.
+- ServiceNow Consultant at **Deloitte**
+- Background in full-stack web development (**Laravel, Vue.js, Spring Boot, React**)
+- Actively upskilling in **ServiceNow** and **AI**
+- I build side projects to continuously sharpen my skills
+- Open to **part-time or freelance projects**
 
 ### Contact 📫
-You can reach me via email at [kate@katejaneenmartin.com](mailto:kate@katejaneenmartin.com)
+You can reach me via email at  
+📧 [kate@katejaneenmartin.com](mailto:kate@katejaneenmartin.com)
