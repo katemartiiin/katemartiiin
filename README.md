@@ -2,9 +2,7 @@
 
 **Software Engineer · ServiceNow Consultant**
 
-Manila, Philippines
-
----
+Bulacan, Philippines
 
 I’m a software engineer with **6+ years of professional experience** building reliable, business-critical **systems and internal platforms**.
 
