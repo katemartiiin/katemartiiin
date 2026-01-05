@@ -64,5 +64,6 @@ My background is in **full-stack development**, with hands-on experience deliver
 
 📫 **Email:** kate@katejaneenmartin.com  
 🌐 **Portfolio:** https://katejaneenmartin.com  
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X11RPGGZ)
 
 _Open to freelance and part-time opportunities._
