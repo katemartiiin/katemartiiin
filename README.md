@@ -1,6 +1,6 @@
 # Kate Janeen Martin
 
-**Software Engineer · ServiceNow Consultant**
+**Software Engineer**
 
 Bulacan, Philippines
 
